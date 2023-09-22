@@ -1,0 +1,32 @@
+* {
+    background-color: #333842;
+    text-align: center;
+        color: whitesmoke;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+}
+
+
+.main {
+    display: flexbox;
+    position: absolute;
+    top: 225px;
+    left: 15%;
+}
+
+h1 {
+    border-style: solid;
+    border-color: whitesmoke;
+    width: fit-content;
+    display: inline-flex;
+}
+
+
+
+
+img {
+    align-items: center;
+    border-radius: 5px;
+    width: 200px;
+    }
